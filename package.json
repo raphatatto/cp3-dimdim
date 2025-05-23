@@ -1,0 +1,14 @@
+{
+  "name": "dimdim-app",
+  "version": "1.0.0",
+  "description": "App Node.js com Oracle para CP3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "oracledb": "^6.3.0",
+    "dotenv": "^16.3.1"
+  }
+}
