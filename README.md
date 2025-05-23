@@ -2,14 +2,14 @@
 # CP3 - DimDimApp (DevOps com Docker)
 
 ## 💡 Sobre o Projeto
-Aplicação Node.js conteinerizada com Docker, conectando-se a banco Oracle da FIAP. O projeto realiza um CRUD simples (ex: clientes) com persistência de dados e boas práticas de containerização, como uso de usuário não-root e variáveis de ambiente.
+Aplicação Node.js conteinerizada com Docker, conectando-se a banco Oracle da FIAP. O projeto realiza um CRUD simples (ex: Motos) com persistência de dados e boas práticas de containerização, como uso de usuário não-root e variáveis de ambiente.
 
 ---
 
 ## 👥 Equipe
 
-- Nome: Fulano da Silva – RM: 123456
-- Nome: Ciclano Santos – RM: 654321
+- Nome: Tiago Ribeiro Capela – RM: 558021
+- Nome: Raphaela Oliveira Tatto – RM: 554982
 
 ---
 
@@ -42,7 +42,7 @@ dimdim-app/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/raphatatto/cp3-dimdim.git
 cd seu-repo
 ```
 
@@ -117,13 +117,13 @@ Abaixo, evidências dos comandos exigidos:
 
 ## 🔗 Link do Repositório
 
-> https://github.com/seu-usuario/seu-repo
+> https://github.com/raphatatto/cp3-dimdim.git
 
 ---
 
 ## 📄 PDF de Entrega
 
-Arquivo `cp3_nomeEquipe.pdf` enviado via Teams, contendo:
+Arquivo `cp3_waledev.pdf` enviado via Teams, contendo:
 - Nome da equipe
 - Nome + RM dos membros
 - Link para este repositório
